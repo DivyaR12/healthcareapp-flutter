@@ -1,6 +1,6 @@
-# navigation_example
+# HealthSync app doctor part
 
-A new Flutter project.
+A Flutter project for HealthSync app
 
 ## Getting Started
 
